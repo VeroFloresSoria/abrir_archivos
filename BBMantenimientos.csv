@@ -1,2 +1,2 @@
-Empresa,Instalacion,Equipo,Mantenimiento,Desconexion de carga,TiempoProgramado,TiempoEjecutado,DiferenciaTiempo,Empresa Afectada,TrabajosSuspendidos,TrabajosProrrogados
-CELEC EP  COCA CODO SINCLAIR,Subestación Coca Codo Sinclair,Posición acoplador,EMERGENTE,0.00,1.00,1.72,0.72,0,NO,NO
+Empresa,Instalacion,Equipo,Mantenimiento,Desconexiondecarga,TiempoProgramado,TiempoEjecutado,DiferenciaTiempo,EmpresaAfectada,TrabajosSuspendidos,TrabajosProrrogados
+CELEC EP COCA CODO SINCLAIR,Subestación Coca Codo Sinclair,Posición acoplador,EMERGENTE,0.00,1.00,1.72,0.72,0,NO,NO

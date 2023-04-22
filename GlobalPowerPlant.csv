@@ -1,4 +1,4 @@
-Country,Powerplant Name,gppd_idnr,Capacity_MW,Latitude,Longitude,PrimaryFuel,Owner,Source
+Country,Powerplant_Name,gppd_idnr,Capacity_MW,Latitude,Longitude,PrimaryFuel,Owner,Source
 Afghanistan,Kajaki Hydroelectric Power Plant Afghanistan,GEODB0040538,33.0,32.322,65.119,Hydro,,GEODB
 Afghanistan,Mahipar Hydroelectric Power Plant Afghanistan,GEODB0040541,66.0,34.556,69.4787,Hydro,,GEODB
 Afghanistan,Naghlu Dam Hydroelectric Power Plant Afghanistan,GEODB0040534,100.0,34.641,69.717,Hydro,,GEODB
